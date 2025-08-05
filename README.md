@@ -12,6 +12,7 @@
 - Spring framework
 - Spring Data JPA
 - Spring Security
+- Fast API
 ### 테스트
 - Junit5
 - Mockito
