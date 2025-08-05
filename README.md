@@ -59,7 +59,7 @@ https://github.com/Gomushim
 또한 k-means-constrained(BSD 3-Clause License) 오픈소스를 활용하여 군집의 크기를 제어하는 균등 클러스터링 기능을 제공하는 api를 설계하고 구현하였습니다.
 ### 깃허브 url
 https://github.com/kimyeoungrok/ClusteringServer
-
+---
 ## 👽 알고리즘 역량
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=praoo800)](https://solved.ac/praoo800)
