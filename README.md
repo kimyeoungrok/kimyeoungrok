@@ -60,6 +60,7 @@ https://github.com/Gomushim
 ### 주요기여
 사용자로부터 가게정보와 나누고 싶은 그룹수를 입력으로 받고 kmeans 알고리즘을 사용하여 클러스터링을 수행합니다. </br>
 또한 k-means-constrained(BSD 3-Clause License) 오픈소스를 활용하여 군집의 크기를 제어하는 균등 클러스터링 기능을 제공하는 api를 설계하고 구현하였습니다.
+
 ---
 ## 👽 알고리즘 역량
 [![Solved.ac
